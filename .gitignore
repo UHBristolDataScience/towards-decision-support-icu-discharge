@@ -1,3 +1,4 @@
+mimic_all_data*
 mimic_mortality
 *.pkl
 .ipynb_checkpoints
