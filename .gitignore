@@ -1,7 +1,11 @@
+Feature_Matrix_*
+mimic_negative_extras*
 _batch*
 _test_all_query_data
 mimic_all_data*
 mimic_mortality
 *.pkl
+*.csv
+*.png
 .ipynb_checkpoints
 .ipynb_checkpoints/*
