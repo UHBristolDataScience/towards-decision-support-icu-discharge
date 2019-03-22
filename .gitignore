@@ -1,3 +1,5 @@
+_batch*
+_test_all_query_data
 mimic_all_data*
 mimic_mortality
 *.pkl
